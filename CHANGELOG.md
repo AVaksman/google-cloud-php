@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.120.1
+
 ## 0.120.0
 
 <details><summary>google/cloud-speech 0.28.0</summary>
